@@ -14,6 +14,10 @@
 <h2 id="3">앱 실행 이미지</h2>
 
 <p float="left">  
+<img width="40%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
+</p>
+
+<p float="left">  
 <img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
 <img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/45a95042-3b17-49ed-b4ba-072303b3f5af">
 </p>
