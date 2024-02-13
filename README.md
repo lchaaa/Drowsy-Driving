@@ -14,17 +14,17 @@
 <h2 id="3">앱 실행 이미지</h2>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/13158aa8-a4a5-4716-8488-28641c703c8b">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/5bc0bee9-f4a7-43e1-9636-a572fab27978">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/45a95042-3b17-49ed-b4ba-072303b3f5af">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/6b44e6cb-60e5-476a-923b-4e37d43b49a4">
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/c42901e1-da79-49a4-bcfa-0ef0a8146ad5">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/dcb15ed3-8399-4d18-a077-c9d2a4af4c04">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/72c48371-8e02-418e-8edb-50f99135c552">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/ef5040ff-c6ce-4dcc-a97c-2252b9a4454f">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/6f6899e5-d9f4-4872-938b-9b4e4ba53e01">
 <img width="37%" src="https://github.com/lchaaa/Stretching-Care/assets/117001092/5da0e481-6cf4-4227-9740-0fe0f9afd415">
 </p>
 
