@@ -14,17 +14,17 @@
 <h2 id="3">앱 실행 이미지</h2>
 
 <p float="none">  
-<img width="50%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
+<img width="40%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/e6e23a67-fa73-4d4e-85de-855ba7154a25">
 <img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/45a95042-3b17-49ed-b4ba-072303b3f5af">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/dcb15ed3-8399-4d18-a077-c9d2a4af4c04">
 </p>
 
 <p float="left">  
-<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/dcb15ed3-8399-4d18-a077-c9d2a4af4c04">
 <img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/72c48371-8e02-418e-8edb-50f99135c552">
+<img width="37%" src="https://github.com/lchaaa/drowsy-driving/assets/117001092/6f6899e5-d9f4-4872-938b-9b4e4ba53e01">
 </p>
 
 <p float="left">  
